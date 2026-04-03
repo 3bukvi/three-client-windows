@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.1",
+    "version":  "0.1.2",
     "notes":  "Исправления VPN и улучшение установщика.",
-    "pub_date":  "2026-04-03T19:48:12Z",
+    "pub_date":  "2026-04-03T20:40:53Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWnFPNTNMS2IxaVFWY2t5VWtGM2lGRTB2OExHdGR6YkZYc0NsVndvcHlNRURQQ1RnNHpMZHZObjhQOFBVNGQrUEwyMEJPNVByRFMrb29pcWxFSkdoc1B4TXhHeHJoWlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjQ0NjUwCWZpbGU60KLQoNCYINCR0YPQutCy0YtfMC4xLjFfeDY0LXNldHVwLmV4ZQo2dUttZS9jVlJ1Zmp3U09Bb0dHLzR5aXBPcDdtUHA4aFZOQ0EyVVlQRlNpcGhLZThTb1BQRzRxYktBeWdSdVRuSmJhRHRsNTdrNElFQVFUQjJJblhDQT09Cg==",
-                                             "url":  "https://github.com/3bukvi/three-client-windows/releases/download/1.0.1/ThreeBukvi_0.1.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWnFPNTNMS2IxaVNyWjdVOFB5ck9UYm9RVTBDemt5WFBzcXJ3MEMwZmt4ZFVLSE1WWkQxMnAxcm14VlJ0b2F2R0N3UXNQR0p1TUVWT2pxdWgzYmxINE9DU3pxR3p4VGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjQ4MjA1CWZpbGU60KLQoNCYINCR0YPQutCy0YtfMC4xLjJfeDY0LXNldHVwLmV4ZQpDVE9XeHVMTjdtNlBaQkhVek1oVU1scmk1MURTUXlkcWJYdHhLd1ZDb09YdmZyTVlGUERzdXhxamRwbEVqbzBGRktYM0ljK09vNFRYbnBRdGFNd0lDdz09Cg==",
+                                             "url":  "https://github.com/3bukvi/three-client-windows/releases/download/0.1.2/ThreeBukvi_0.1.2_x64-setup.exe"
                                          },
                       "windows-i686":  {
-                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWnFPNTNMS2IxaVRZbTBXVXBtM0N5SUJuUzZqMDl4V2pWbmJMVUJ4Z1RkVEdNTzVFK3NpZzU1ajhYYU92NXJwUXRRMGk0K3RnRVFaSVMxUWhqL09RQnRuS3c4YnM5SFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjQ0Nzk5CWZpbGU60KLQoNCYINCR0YPQutCy0YtfMC4xLjFfeDg2LXNldHVwLmV4ZQpPNWV4UUVyUmNwb3B3S1ZoNldvSzMrZnlyc1F5MUVNUDhIekxuem4wYnNEanlTRXc4cDQ1TmJMS3FjM1FoNitPcW9HaDFDWkpEZkVFUTRqRWw0VXJEZz09Cg==",
-                                           "url":  "https://github.com/3bukvi/three-client-windows/releases/download/1.0.1/ThreeBukvi_0.1.1_x86-setup.exe"
+                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWnFPNTNMS2IxaWZNVTZ1NnJTemRuM0Q4WFA0c0ZQV0tzL0kyb2pIaFh0c09BLzhaOFh2SlpkekY4cnJPNWpOSUpQU2dmdHAwdERjMzVLWWpTWkJNR1YxRWxBV3A2dXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjQ4NDk4CWZpbGU60KLQoNCYINCR0YPQutCy0YtfMC4xLjJfeDg2LXNldHVwLmV4ZQowbnhzSkl1T1ZKM2hXbkJJWVF2blo3RlBKVWZZODNyTTFNSXNQdjBvWkVmL1Bpa2U0NUwwMnhXNVVQeFBoWkVkYThjaFhtaENIY1ZDbEdNUVdtRWVDUT09Cg==",
+                                           "url":  "https://github.com/3bukvi/three-client-windows/releases/download/0.1.2/ThreeBukvi_0.1.2_x86-setup.exe"
                                        }
                   }
 }
